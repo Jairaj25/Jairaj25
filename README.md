@@ -1,4 +1,4 @@
-![image](https://github.com/gaurav-008/gaurav-008/assets/72474037/f68db01e-f124-4ff2-a63e-47f1518c117a)
+![image](https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg)
 
 <h1 align="center">Hi 👋, I'm Jairaj Upadhyay</h1>
 <h3 align="center">A passionate Full stack developer.</h3>
